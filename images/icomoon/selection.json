@@ -1,0 +1,199 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1024 85.333l-1024 480 327.251 101.001 504.749-394.334-383.927 431.629 0.311 0.098-0.384-0.098v235.038l183.522-178.419 232.482 71.753 159.996-746.667z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Frame 3"
+        ],
+        "colorPermutations": {
+          "255255255177902291": [
+            {
+              "f": 1
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 64,
+        "id": 0,
+        "name": "send",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1024 103.131l-103.131-103.131-408.869 408.869-408.869-408.869-103.131 103.131 408.869 408.869-408.869 408.869 103.131 103.131 408.869-408.869 408.869 408.869 103.131-103.131-408.869-408.869 408.869-408.869z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector (3)"
+        ],
+        "colorPermutations": {
+          "255255255177902291": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 62,
+        "id": 4,
+        "name": "close",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 512c141.44 0 256-114.56 256-256s-114.56-256-256-256c-141.44 0-256 114.56-256 256s114.56 256 256 256zM512 640c-170.88 0-512 85.76-512 256v64c0 35.2 28.8 64 64 64h896c35.2 0 64-28.8 64-64v-64c0-170.24-341.12-256-512-256z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 58,
+        "id": 1,
+        "name": "person",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M923.672 698.298l-144.793-16.531c-34.772-3.99-68.974 7.98-93.486 32.492l-104.887 104.885c-161.32-82.084-293.569-213.763-375.654-375.654l105.456-105.457c24.511-24.512 36.483-58.714 32.492-93.486l-16.531-143.65c-6.84-57.574-55.294-100.897-113.437-100.897h-98.616c-64.414 0-117.998 53.584-114.008 117.998 30.212 486.814 419.547 875.581 905.786 905.789 64.417 3.994 117.996-49.593 117.996-114.003v-98.619c0.575-57.573-42.748-106.027-100.32-112.868z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector (1)"
+        ],
+        "colorPermutations": {
+          "255255255177902291": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 60,
+        "id": 2,
+        "name": "phone",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [
+          "M921.6 102.4h-819.2c-56.32 0-101.888 46.080-101.888 102.4l-0.512 614.4c0 56.32 46.080 102.4 102.4 102.4h819.2c56.32 0 102.4-46.080 102.4-102.4v-614.4c0-56.32-46.080-102.4-102.4-102.4zM901.12 320l-361.984 226.304c-16.384 10.24-37.888 10.24-54.272 0l-361.984-226.304c-12.8-8.192-20.48-22.016-20.48-36.864 0-34.304 37.376-54.784 66.56-36.864l343.040 214.528 343.040-214.528c29.184-17.92 66.56 2.56 66.56 36.864 0 14.848-7.68 28.672-20.48 36.864z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Vector (2)"
+        ],
+        "colorPermutations": {
+          "255255255177902291": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 61,
+        "id": 3,
+        "name": "email",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 4
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
