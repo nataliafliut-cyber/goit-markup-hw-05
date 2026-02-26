@@ -378,7 +378,6 @@ body {
 .footer-container {
   display: flex;
   align-items: baseline;
-  gap: 80px;
 }
 
 .footer-logo .logo-part {
@@ -391,6 +390,11 @@ body {
   max-width: 264px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+/* 120px between brand and social */
+.footer-social {
+  margin-left: 120px;
 }
 
 .footer-social-text {
@@ -427,6 +431,10 @@ body {
 }
 
 /* FOOTER SUBSCRIBE */
+.footer-subscribe {
+  margin-left: auto; /* push to the right */
+}
+
 .footer-subscribe-text {
   color: #ffffff;
   font-weight: 500;
@@ -450,13 +458,19 @@ body {
   outline: transparent;
 
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 2; /* FIX */
   letter-spacing: 0.04em;
   color: #ffffff;
+
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1); /* FIX */
 }
 
 .subscribe-input::placeholder {
   color: #ffffff;
+}
+
+.subscribe-input:focus {
+  border-color: #31d0aa; /* FIX */
 }
 
 .subscribe-btn {
@@ -483,14 +497,14 @@ body {
 
 .subscribe-btn:hover,
 .subscribe-btn:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa; /* FIX */
 }
 
 .subscribe-icon {
   fill: #ffffff;
 }
 
-/* ===== MODAL + FORM (pixel-perfect) ===== */
+/* ===== MODAL + FORM ===== */
 .backdrop {
   position: fixed;
   top: 0;
